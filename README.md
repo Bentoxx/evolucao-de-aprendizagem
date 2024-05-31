@@ -1,6 +1,7 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# EXEMPLO - Conteúdo modelo no GitHub
+# EVOLUÇÃO DE APRENDIZAGEM - MÓDULO 02 BACK-END 
+# BENTO JOSÉ DE SANTANA NETO - CUBOS ACADEMY DDS17
 
 ## Conteúdos a serem trabalhados nesse módulo:
 
