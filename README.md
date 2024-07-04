@@ -30,3 +30,14 @@
 Estou muito ancioso e animado para esse módulo, espero poder aplicar aquilo que já foi passado e também adquirir novas informações que possam me auxiliar no desenvolvimento das habilidades mais pedidas pelo mercado.
 
 #PS.: Atualizando o último tópico... Superou e muito minhas expectativas... verdadeiramente subiu o sarrafo do que espero para o próximo módulo!!
+
+## O que eu aprendi nesse módulo?
+
+- LinkedIn - Como citei anteriormente, já utilizava a ferramenta, mas aprendi e implementei algumas melhorias na construção do meu perfil nesta rede.
+- Currículo e Carta de Apresentação - Aprendi sobre a utilização de palavras chave nesses documentos
+- Gestão de tempo - Confesso que tenho muito a evoluir ainda nesse quesito, porém já consigo abstrair muita coisa que me roubava tempo
+- Funções - Principalmente os conceitos de arrow e arround function
+- Tipos de Dados - Pude revisitar e relembrar tudo
+- Tipos Utilitários - A aplicação de tipagem e as configurações das bibliotecas
+- Métodos de strings - As funcionalidades e aplicações de muita coisa que se fazia "na unha" em linguagens mais antigas. Muito bom!
+- Métodos de arrays - As funcionalidades e aplicações de muita coisa que se fazia "na unha" em linguagens mais antigas. Muito bom!
